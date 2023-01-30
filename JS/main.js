@@ -1,4 +1,4 @@
-let swLocation = "sw.js";
+let swLocation = "JS/sw.js";
 
 if (navigator.serviceWorker){
     if (window.location.href.includes("localhost"))
